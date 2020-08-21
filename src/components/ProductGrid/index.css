@@ -1,0 +1,5 @@
+.ProductGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 14em);
+  grid-column-gap: 1em;
+}
